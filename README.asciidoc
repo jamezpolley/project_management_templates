@@ -1,6 +1,7 @@
 = README
 :toc:
 :source: http://www.egovernment.tas.gov.au/project_management
+:imagesdir: images/
 
 Project management is a formalised and structured method of managing change in a rigorous manner. It focuses on producing specifically defined outputs by a certain time, to a defined quality and with a given level of resources so that planned outcomes are achieved.
 
@@ -8,10 +9,31 @@ The Tasmanian Government Project Management Framework is comprised of the *Tasma
 
 While the documents below were originally published in 2011, they are now available under Creative Commons attribution licence (CC BY).
 
-== Very Small Projects
-link:very_small/project_brief_template.asciidoc[Template]:: Project Brief
+== Templates and Guides
+=== Very Small Projects
+|===
+| Title | Type | Notes 
+
+| link:very_small/project_brief_template.asciidoc[Project Brief]
+| Template
+|
+
+|===
 
 [colophon]
 = Colophon
 
+====
+[.right]
+image:tasmania.png[]
+
 The templates in this repository are based on those provided by the Tasmanian Government from their website at {source}, as retrieved in Jan 2020.
+
+'''
+
+[.right]
+image:cc-by.png[]
+
+License URL: https://creativecommons.org/licenses/by/4.0/legalcode.
+Please give attribution to: © State of Tasmania (http://www.dpac.tas.gov.au[Department of Premier and Cabinet]) 2017
+====
