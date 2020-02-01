@@ -8,8 +8,8 @@ The Tasmanian Government Project Management Framework is comprised of the *Tasma
 
 While the documents below were originally published in 2011, they are now available under Creative Commons attribution licence (CC BY).
 
-== Templates
-
+== Very Small Projects
+link:very_small/project_brief_template[Template]:: Project Brief
 
 [colophon]
 = Colophon

@@ -1,0 +1,180 @@
+= ProjectName
+Author's Name <author@email.address>
+v0.A, 2020-01-01: Template
+:toc: left
+:project_size: very_small
+:imagesdir: ../images/
+
+This is version {revnumber} of the {doctitle} *Project Brief*.
+
+Last revised date: {revdate}
+
+////
+This template has been developed for very small projects and as such
+does not include a guide. For further details go to the Project Business
+Plan templates and guides found in the Project Management Section of
+http://www.egovernment.tas.gov.au[www.egovernment.tas.gov.au]
+
+The version number starts at one and increases by one for each release.
+It shows the release number and a revision letter if in draft. The
+original draft is 0.A and subsequent drafts are 0.B, 0.C etc. The first
+accepted and issued document is Version 1.0. Subsequent changes in draft
+form are 1.0A, 1.0B etc. The accepted and issued second version is 1.1
+or 2.0, depending on the magnitude of the change.
+
+Refer to the Project Management Fact Sheet: Document Control for more
+information. 
+////
+
+****
+image:cc-by.png[]
+License URL: https://creativecommons.org/licenses/by/4.0/legalcode +
+Please give attribution to: © State of Tasmania
+(http://www.dpac.tas.gov.au[Department of Premier and Cabinet]) 2017
+****
+
+
+== Background/Context
+////
+Provide a brief explanation of the background
+and/or context of the project. (Try and keep this to little more than
+half a page)
+////
+
+== Objective
+////
+What is the aim of this project?
+
+A useful way to frame the objective is to answer the question ‘why are
+you doing the project?’ The result is a one sentence statement, or
+series of statements, starting with the word ‘To’
+////
+
+== Target Outcomes
+////
+Target Outcomes are expressed in the past tense and
+usually start with a word ending in 'ed', such as improved, increased,
+enhanced or reduced. They are the benefits that the project intends to
+achieve.
+////
+
+== How will the success of the project be measured?
+////
+Describe the measure(s) that will used to indicate that the project has
+been successfully completed.
+
+Each measure will be linked to one or more target outcomes. At the end
+of the project the measures will help answer such questions as 'what
+have we achieved?' and 'how do we know?'
+////
+
+== Output(s)
+
+////
+What things will be delivered by the project? Outputs
+link with outcomes, in that the outputs are used by the project’s
+customers to achieve the outcomes. Outputs are usually expressed as
+nouns
+////
+
+== Governance
+////
+Describe the management arrangements that will be put
+in place to govern the project and briefly describe the accountabilities
+of each party. As a minimum this will include the name and title of the
+Project Manager and Project Sponsor.
+////
+
+== Reporting Requirements:
+////
+What is the reporting frequency, format and to whom?
+////
+
+== Resources
+////
+What human resources, internal, external, consultants and/or working
+groups will be required for the project?
+
+Is the project is being conducted within existing operational resources
+or have specific funds been supplied? If the project has a specific
+budget provide details of the proposed expenditures.
+////
+
+== Stakeholders & Communication Strategy
+////
+List the key stakeholders or
+stakeholder groups who will impact the project or be impacted by the
+project and describe how they will be engaged.
+////
+
+== Assumptions and Constraints
+////
+Provide a list of any underlying assumptions and/or constraints.
+////
+
+== Major Risks & Minimisation Strategies
+////
+What are the barriers to achieving project success (ie the major risks)? For each of these risks,
+what steps will be undertaken to minimise them?
+////
+
+== Risk Management
+////
+What will be the process used to manage risks
+throughout the project, particularly in relation to risk identification,
+review and reporting? See the Risk Management resource kit at_
+http://www.egovernment.tas.gov.au[www.egovernment.tas.gov.au] for more
+information
+////
+
+== Issues Management
+////
+What will be the process used to manage issues throughout the project, particularly in relation to issue
+identification, review and reporting?
+////
+
+== Related Projects
+////
+List any projects which are dependent on this
+project, or projects that are interdependent on this project, or
+projects upon which this project is dependent. Briefly describe the
+relationship.
+////
+
+== Guidelines/Standards
+////
+What guidelines, standards or methodologies will be applied manage the project?
+////
+
+== Quality Control
+////
+What levels of review will be undertaken throughout the development of the project outputs? For example the
+timing of output reviews, how the reviews will be conducted and who will
+be involved.
+////
+
+== Capturing the Lessons Learnt
+////
+Describe any review process (internal or external) to capture the lessons learnt throughout the
+project
+////
+
+'''
+
+== Project Activities & Milestones
+
+////
+List the major activities, scheduled start, scheduled finish and who
+has been assigned accountability. Milestones are indicated by a blank
+scheduled start date. The activities appearing in the predecessor column
+must be completed before the activity described can begin.
+////
+
+[cols=",,,,,",]
+|=======================================================================
+| Id | Description | Who | Scheduled Start | Scheduled Finish  | Predecessor 
+
+| | | | | |
+
+| | | | | | 
+|=======================================================================
